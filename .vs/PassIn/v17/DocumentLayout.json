@@ -3,20 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\rbarr\\Downloads\\PassIn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\attendees\\getallbyeventid\\getallbyattendessbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\attendees\\getallbyeventid\\getallbyattendessbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\attendeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.infrastructure\\entities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.infrastructure\\entities\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\docheckin\\doattendeecheckinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\docheckin\\doattendeecheckinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12B5F645-0212-4E52-8310-3B8C574A80C4}|PassIn.Infrastructure\\PassIn.Infrastructure.csproj|solutionrelative:passin.infrastructure\\passindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.api\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\getbyid\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.communication\\responses\\responseallattendeesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|solutionrelative:passin.communication\\responses\\responseallattendeesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.communication\\responses\\responseattendeejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|solutionrelative:passin.communication\\responses\\responseattendeejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\events\\registerattendee\\registerattendeeoneventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\registerattendee\\registerattendeeoneventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C5FE2D-E225-46D7-BF74-65186270F5BC}|PassIn.Api\\PassIn.Api.csproj|solutionrelative:passin.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98E9A70-91BD-45D2-A403-ED7AF882D3FF}|PassIn.Exceptions\\PassIn.Exceptions.csproj|solutionrelative:passin.exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB83DC07-5A54-41D3-8B5C-C2BDD9119610}|PassIn.Application\\PassIn.Application.csproj|solutionrelative:passin.application\\usecases\\events\\register\\registereventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|c:\\users\\rbarr\\downloads\\passin\\passin.communication\\responses\\responseregisteredjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABFF151-1B90-44D5-A7A7-C16974AD45B4}|PassIn.Communication\\PassIn.Communication.csproj|solutionrelative:passin.communication\\responses\\responseregisteredjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,52 +123,249 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PassInDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\PassInDbContext.cs",
-              "RelativeDocumentMoniker": "PassIn.Infrastructure\\PassInDbContext.cs",
-              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\PassInDbContext.cs",
-              "RelativeToolTip": "PassIn.Infrastructure\\PassInDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABeAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Program.cs",
+              "RelativeToolTip": "PassIn.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T06:43:12.845Z",
+              "WhenOpened": "2024-04-05T03:52:06.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterEventUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwCAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "CheckIn.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\CheckIn.cs",
+              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\CheckIn.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\CheckIn.cs",
+              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\CheckIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T06:26:53.631Z"
+              "WhenOpened": "2024-04-05T03:35:53.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetEventByIdUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBsAAAABAAAA",
+              "Title": "GetAllByAttendessByEventIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Attendees\\GetAllByEventId\\GetAllByAttendessByEventIdUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Attendees\\GetAllByEventId\\GetAllByAttendessByEventIdUseCase.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Attendees\\GetAllByEventId\\GetAllByAttendessByEventIdUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Attendees\\GetAllByEventId\\GetAllByAttendessByEventIdUseCase.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T06:23:49.834Z",
+              "WhenOpened": "2024-04-05T03:06:42.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AttendeesController.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\AttendeesController.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\AttendeesController.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\AttendeesController.cs",
+              "RelativeToolTip": "PassIn.Api\\Controllers\\AttendeesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:01:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\EventsController.cs",
               "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\EventsController.cs",
               "RelativeToolTip": "PassIn.Api\\Controllers\\EventsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCoAAAAEAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBsAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T05:44:37.533Z"
+              "WhenOpened": "2024-04-05T02:09:48.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\Event.cs",
+              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:10:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PassInDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\PassInDbContext.cs",
+              "RelativeDocumentMoniker": "PassIn.Infrastructure\\PassInDbContext.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\PassInDbContext.cs",
+              "RelativeToolTip": "PassIn.Infrastructure\\PassInDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:12:34.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseAllAttendeesJson.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseAllAttendeesJson.cs",
+              "RelativeDocumentMoniker": "PassIn.Communication\\Responses\\ResponseAllAttendeesJson.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseAllAttendeesJson.cs",
+              "RelativeToolTip": "PassIn.Communication\\Responses\\ResponseAllAttendeesJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:07:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\Attendee.cs",
+              "RelativeDocumentMoniker": "PassIn.Infrastructure\\Entities\\Attendee.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Infrastructure\\Entities\\Attendee.cs",
+              "RelativeToolTip": "PassIn.Infrastructure\\Entities\\Attendee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:10:19.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoAttendeeCheckinUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\DoCheckIn\\DoAttendeeCheckinUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\DoCheckIn\\DoAttendeeCheckinUseCase.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\DoCheckIn\\DoAttendeeCheckinUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\DoCheckIn\\DoAttendeeCheckinUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:31:38.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckInController.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\CheckInController.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Controllers\\CheckInController.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Controllers\\CheckInController.cs",
+              "RelativeToolTip": "PassIn.Api\\Controllers\\CheckInController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:28:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseAttendeeJson.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "RelativeDocumentMoniker": "PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "RelativeToolTip": "PassIn.Communication\\Responses\\ResponseAttendeeJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T03:23:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEventByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\GetById\\GetEventByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:13:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterAttendeeOnEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\RegisterAttendee\\RegisterAttendeeOnEventUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:08:06.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "PassIn.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:13:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
+              "RelativeDocumentMoniker": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
+              "RelativeToolTip": "PassIn.Application\\UseCases\\Events\\Register\\RegisterEventUseCase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:13:21.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "PassIn.Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "PassIn.Exceptions\\ConflictException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:53:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Exceptions\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "PassIn.Exceptions\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Exceptions\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "PassIn.Exceptions\\ErrorOnValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:53:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseRegisteredJson.cs",
+              "DocumentMoniker": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseRegisteredJson.cs",
+              "RelativeDocumentMoniker": "PassIn.Communication\\Responses\\ResponseRegisteredJson.cs",
+              "ToolTip": "C:\\Users\\rbarr\\Downloads\\PassIn\\PassIn.Communication\\Responses\\ResponseRegisteredJson.cs",
+              "RelativeToolTip": "PassIn.Communication\\Responses\\ResponseRegisteredJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T02:42:04.366Z",
+              "EditorCaption": ""
             }
           ]
         }
